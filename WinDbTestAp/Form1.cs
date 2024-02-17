@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace WinDbTestAp
 {
-    public partial class Form1 : Form
+    public partial class FrmMain : Form
     {
-        public Form1()
+        public FrmMain()
         {
             InitializeComponent();
+        }
+
+        private void BtnMySql_Click(object sender, EventArgs e)
+        {
+            string s = MySqlDbHelper.DoDbTest();
+            MessageBox.Show(s);
         }
     }
 }
