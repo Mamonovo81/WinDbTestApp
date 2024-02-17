@@ -5,8 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WinDbTesAp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow" Height="450" Width="244" Background="#FF441A1A" BorderBrush="#FF707070" Foreground="#FF2A1919" FontWeight="Bold">
+    <Grid Margin="0,0,570,0">
+        <Button x:Name="ButMySQL" Content="Button" HorizontalAlignment="Left" Height="43" Margin="70,39,0,0" VerticalAlignment="Top" Width="113" Background="#FF441A1A" Foreground="#FF2A1919"/>
+        <TextBlock TextWrapping="Wrap" Text="TextBlock"/>
+        <Button Content="Button" Width="0"/>
 
     </Grid>
 </Window>

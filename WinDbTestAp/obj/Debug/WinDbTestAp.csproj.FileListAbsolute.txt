@@ -1,0 +1,10 @@
+C:\Work\C#\WinDbTestApp\WinDbTestAp\bin\Debug\WinDbTestAp.exe.config
+C:\Work\C#\WinDbTestApp\WinDbTestAp\bin\Debug\WinDbTestAp.exe
+C:\Work\C#\WinDbTestApp\WinDbTestAp\bin\Debug\WinDbTestAp.pdb
+C:\Work\C#\WinDbTestApp\WinDbTestAp\obj\Debug\WinDbTestAp.csproj.AssemblyReference.cache
+C:\Work\C#\WinDbTestApp\WinDbTestAp\obj\Debug\WinDbTestAp.Form1.resources
+C:\Work\C#\WinDbTestApp\WinDbTestAp\obj\Debug\WinDbTestAp.Properties.Resources.resources
+C:\Work\C#\WinDbTestApp\WinDbTestAp\obj\Debug\WinDbTestAp.csproj.GenerateResource.cache
+C:\Work\C#\WinDbTestApp\WinDbTestAp\obj\Debug\WinDbTestAp.csproj.CoreCompileInputs.cache
+C:\Work\C#\WinDbTestApp\WinDbTestAp\obj\Debug\WinDbTestAp.exe
+C:\Work\C#\WinDbTestApp\WinDbTestAp\obj\Debug\WinDbTestAp.pdb
