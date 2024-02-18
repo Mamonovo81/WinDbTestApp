@@ -7,11 +7,15 @@
       "RelativeMoniker": "D:0:0:{E2CD4CA3-A105-4CDC-A609-7D907EFB10BE}|WinDbTestAp.csproj|solutionrelative:mysqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2CD4CA3-A105-4CDC-A609-7D907EFB10BE}|WinDbTestAp.csproj|c:\\work\\c#\\windbtestapp\\windbtestap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2CD4CA3-A105-4CDC-A609-7D907EFB10BE}|WinDbTestAp.csproj|C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\mssqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CD4CA3-A105-4CDC-A609-7D907EFB10BE}|WinDbTestAp.csproj|solutionrelative:mssqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD4CA3-A105-4CDC-A609-7D907EFB10BE}|WinDbTestAp.csproj|C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2CD4CA3-A105-4CDC-A609-7D907EFB10BE}|WinDbTestAp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2CD4CA3-A105-4CDC-A609-7D907EFB10BE}|WinDbTestAp.csproj|c:\\work\\c#\\windbtestapp\\windbtestap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E2CD4CA3-A105-4CDC-A609-7D907EFB10BE}|WinDbTestAp.csproj|C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2CD4CA3-A105-4CDC-A609-7D907EFB10BE}|WinDbTestAp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +42,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MsSqlDbHelper.cs",
+              "DocumentMoniker": "C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\MsSqlDbHelper.cs",
+              "RelativeDocumentMoniker": "MsSqlDbHelper.cs",
+              "ToolTip": "C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\MsSqlDbHelper.cs",
+              "RelativeToolTip": "MsSqlDbHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T19:01:48.515Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MySqlDbHelper.cs",
               "DocumentMoniker": "C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\MySqlDbHelper.cs",
               "RelativeDocumentMoniker": "MySqlDbHelper.cs",
               "ToolTip": "C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\MySqlDbHelper.cs",
               "RelativeToolTip": "MySqlDbHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-17T20:48:00.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAewBYAAAAfAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAjwBwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T20:29:35.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T20:29:35.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Work\\C#\\WinDbTestApp\\WinDbTestAp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T15:44:29.525Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-02-17T15:44:29.525Z"
             }
           ]
         }
