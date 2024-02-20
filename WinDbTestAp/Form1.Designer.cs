@@ -49,7 +49,7 @@
             // 
             this.BtnMsSQL.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.BtnMsSQL.Location = new System.Drawing.Point(44, 98);
-            this.BtnMsSQL.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BtnMsSQL.Margin = new System.Windows.Forms.Padding(4);
             this.BtnMsSQL.Name = "BtnMsSQL";
             this.BtnMsSQL.Size = new System.Drawing.Size(144, 66);
             this.BtnMsSQL.TabIndex = 1;
@@ -61,12 +61,13 @@
             // 
             this.BtnSqLite.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.BtnSqLite.Location = new System.Drawing.Point(48, 193);
-            this.BtnSqLite.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BtnSqLite.Margin = new System.Windows.Forms.Padding(4);
             this.BtnSqLite.Name = "BtnSqLite";
             this.BtnSqLite.Size = new System.Drawing.Size(139, 75);
             this.BtnSqLite.TabIndex = 2;
             this.BtnSqLite.Text = "SQLIte";
             this.BtnSqLite.UseVisualStyleBackColor = true;
+            this.BtnSqLite.Click += new System.EventHandler(this.BtnSqLite_Click);
             // 
             // FrmMain
             // 
